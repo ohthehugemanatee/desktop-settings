@@ -170,12 +170,6 @@
         "tooltip": false
     },
 
-    "custom/help": {
-        "format": "",
-        "on-click": "swaymsg exec \\$help",
-        "tooltip": false
-    },
-
     "bluetooth": {
         "format": "{icon}",
         "interval": 30,
